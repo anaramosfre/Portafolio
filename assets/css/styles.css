@@ -1,0 +1,69 @@
+
+* {
+    font-family: 'Frank Ruhl Libre', serif;
+    margin: 0px;
+    
+}
+
+body {
+    width: 100vw;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.4) url(/assets/img/IMG_2081.JPG); 
+    background-blend-mode: darken;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo {
+    font-family: 'Merienda One', cursive;
+    padding-top: 180px;
+    color: rgb(223, 160, 234);
+    font-size: 65px;
+    
+}
+h2 {
+    font-family: 'Merienda One', cursive;
+    color: rgb(223, 160, 234);
+}
+.color1 {
+    background-color: rgb(223, 160, 234);
+}
+
+
+.background2 {
+    background: black;
+    height: auto;
+    
+}
+
+@media (min-width: 1400px) {
+    .background2 {
+        background: black;
+        height: 100vh; 
+    }
+}
+
+.foto {
+    width: 300px;
+}
+
+.cardwidth {
+    width: 370px;
+    height: 500px;
+}
+
+.imgheight {
+height: 300px
+}
+
+.icon1 {
+    font-size: 40px;
+}
+
+.padding2 {
+    padding-top: 100px;
+}
+
