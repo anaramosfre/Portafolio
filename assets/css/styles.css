@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgba(0, 0, 0, 0.4) url(assets/img/IMG_2081.JPG); 
+    background: rgba(0, 0, 0, 0.4) url(../img/IMG_2081.JPG); 
     background-blend-mode: darken;
     height: 100vh;
     background-size: cover;
